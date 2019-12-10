@@ -3,8 +3,32 @@
 An interactive flashcard app that tells the story of React and its role in the web industry. Great little learning tool, and you can
 use it to capture your own stories and ideas too!
 
-Here I was able to expand on creating webpages using HTML, building applications using Javascript, React, as well as learn
+How to use:
+
+1) https://flashback-carl-hofstrom.herokuapp.com
+2) Guess the answer!
+3) Click on the card itself to for the answer
+2) Click the left and right arrows '<' '>' to cycle through the cards
+
+
+
+Application Responsiblities:
+
+Expand on creating webpages using HTML, building applications using Javascript, React, as well as learn
 more about ES6 features. 
 
 
+
+
+
+
+
+Built using ReactJS by
 Carl Hofstrom hofstromcarl@gmail.com
+
+
+
+https://flashback-carl-hofstrom.herokuapp.com
+
+
+
