@@ -6,7 +6,7 @@ How to use:
 
 1) https://flashback-carl-hofstrom.herokuapp.com
 2) Guess the answer!
-3) Click on the card itself to for the answer
+3) Click on the card itself for the answer
 2) Click the left and right arrows '<' '>' to cycle through the cards
 
 
